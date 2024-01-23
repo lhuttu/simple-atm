@@ -71,3 +71,28 @@ muodossa ”tilinumero.acc” (esim. ”12345.acc”).
 - Nostossa nostettavan summan rajoitukset (kts. Otto).
 - Tilin saldo ei voi olla negatiivinen.
 - Tilinumeron, sekä PIN-koodin maksimipituus on 256 merkkiä.
+
+## Screenshots
+#### Kirjautuminen
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/f67f1579-0637-4755-b71e-12cd0f75b2a4)
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/fcf112f9-7ee6-4498-92d0-054ee5a6479f)
+#### Saldon kysely
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/5373b622-ae90-4b9f-8dd1-2f70bc56cf5d)
+#### Otto
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/bc7ba9eb-48a6-479f-857c-1508dc648b37)
+#### Saldon kysely uudestaan
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/d4c8353c-2917-4c69-b4df-dae6a08ebc57)
+#### Kirjauminen ulos
+![image](https://github.com/lhuttu/simple-atm/assets/122997103/938a480a-2472-4eeb-ae03-b6604884aa47)
+
+
+
+
+
+
+
+
+
+
+
+
