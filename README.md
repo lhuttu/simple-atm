@@ -39,17 +39,17 @@ löytyy samasta hakemistosta ja on nimetty muodossa ”tilinumero.acc” (esim.
   
 ### Päävalikko
 - Päävalikossa näet kolme vaihtoehtoa:
-o Otto: Nostaa rahaa tililtäsi.
-o Saldo: Näyttää tilin saldon.
-o Lopeta: Kirjaa sinut ulos ohjelmasta.
+ - Otto: Nostaa rahaa tililtäsi.
+ - Saldo: Näyttää tilin saldon.
+ - Lopeta: Kirjaa sinut ulos ohjelmasta.
 
 ### Otto
 - Valitse 1 ja paina Enter.
 - Syötä nostettava summa euroina. Huomioi seuraavat rajoitukset:
-o Summan tulee olla positiivinen.
-o Automaatti antaa vain 20€ ja 50€ seteleitä.
-▪ Eli minimisumma 20, sitten 40, jonka jälkeen kymmenen euron välein.
-o Kertanosto voi olla enintään 1000€.
+  - Summan tulee olla positiivinen.
+  - Automaatti antaa vain 20€ ja 50€ seteleitä.
+  - Eli minimisumma 20, sitten 40, jonka jälkeen kymmenen euron välein.
+  - Kertanosto voi olla enintään 1000€.
 
 ### Saldo
 - Valitse 2 ja paina Enter.
